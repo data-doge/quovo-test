@@ -1,6 +1,10 @@
-get quovo ui token
+clone this app
 
-paste into `App`'s `componentDidMount`
+run `npm i`
+
+get a quovo ui token
+
+paste token into `App`'s `componentDidMount` (janky, i know)
 
 run `npm start`
 
